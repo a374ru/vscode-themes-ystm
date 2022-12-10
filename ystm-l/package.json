@@ -1,0 +1,29 @@
+{
+  "name": "ystm-light",
+  "displayName": "YSTM-COLORS",
+  "description": "Светлая тема. Сверстана с учетом предыдущего опыта и зрения.",
+  "version": "0.2.0",
+  "publisher": "YSTM",
+  "icon": "ystm.png",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "YSTM-COLORS",
+        "uiTheme": "vs",
+        "path": "./themes/YSTM-3.tmTheme"
+      },
+      {
+        "label": "YSTM-COLORS-2",
+        "uiTheme": "vs",
+        "path": "./ystm-light.json"
+      }
+    ]
+  }
+}
