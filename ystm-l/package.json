@@ -1,8 +1,8 @@
 {
-  "name": "ystm-light",
+  "name": "beige-light",
   "displayName": "YSTM-COLORS",
-  "description": "Светлая тема. Сверстана с учетом предыдущего опыта и зрения.",
-  "version": "0.2.0",
+  "description": "Светлая тема в бежевых тонах. Сверстана с учетом предыдущего опыта и уставшего зрения.",
+  "version": "0.3.2",
   "publisher": "YSTM",
   "icon": "ystm.png",
   "license": "MIT",
@@ -20,9 +20,9 @@
         "path": "./themes/YSTM-3.tmTheme"
       },
       {
-        "label": "YSTM-COLORS-2",
+        "label": "YSTM-COLOR-2",
         "uiTheme": "vs",
-        "path": "./ystm-light.json"
+        "path": "./themes/ystm-light.json"
       }
     ]
   }
