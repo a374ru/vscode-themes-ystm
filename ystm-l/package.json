@@ -2,7 +2,7 @@
   "name": "beige-light",
   "displayName": "YSTM-COLORS",
   "description": "Светлая тема в бежевых тонах. Сверстана с учетом предыдущего опыта и уставшего зрения.",
-  "version": "0.3.2",
+  "version": "3.2.2",
   "publisher": "YSTM",
   "icon": "ystm.png",
   "license": "MIT",
@@ -15,12 +15,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "YSTM-COLORS",
+        "label": "YSTM",
         "uiTheme": "vs",
         "path": "./themes/YSTM-3.tmTheme"
       },
       {
-        "label": "YSTM-COLOR-2",
+        "label": "YSTM-pink-baige",
         "uiTheme": "vs",
         "path": "./themes/ystm-light.json"
       }
