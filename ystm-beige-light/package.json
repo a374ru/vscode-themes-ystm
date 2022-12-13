@@ -2,7 +2,7 @@
 	"name": "beige-light",
 	"displayName": "YSTM-COLORS",
 	"description": "Светлая тема в бежевых тонах. Сверстана с учетом предыдущего опыта и уставшего зрения.",
-	"version": "3.2.2",
+	"version": "3.3.0",
 	"publisher": "YSTM",
 	"icon": "ystm.png",
 	"repository": {
@@ -38,7 +38,7 @@
 		"isApplicationScoped": false,
 		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1670954157453,
+		"installedTimestamp": 1670972094881,
 		"preRelease": false
 	}
 }
