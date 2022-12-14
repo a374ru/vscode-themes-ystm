@@ -7,7 +7,7 @@
 	"icon": "rgb.png",
 	"repository": {
 		"type": "git",
-		"url": "https://a374ru/vscode-themes-ystm"
+		"url": "https://github.com/a374ru/vscode-themes-ystm/tree/master/ystm-beige-light"
 	},
 	"license": "MIT",
 	"engines": {
