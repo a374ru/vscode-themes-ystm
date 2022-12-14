@@ -2,9 +2,9 @@
 	"name": "beige-light",
 	"displayName": "YSTM-COLORS",
 	"description": "Светлая тема в бежевых тонах. Сверстана с учетом предыдущего опыта и уставшего зрения.",
-	"version": "3.3.0",
+	"version": "3.3.12",
 	"publisher": "YSTM",
-	"icon": "ystm.png",
+	"icon": "rgb.png",
 	"repository": {
 		"type": "git",
 		"url": "https://a374ru/vscode-themes-ystm"
