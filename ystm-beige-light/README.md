@@ -12,3 +12,4 @@
 
 ![url-variable](https://raw.githubusercontent.com/a374ru/vscode-themes-ystm/master/ystm-beige-light/screenshot-l.png)
 
+### При работе с темным сайдбаром, некоторый код в блоках может отображаться некорректно. Просто поменяйте тему на `YSTM-LB`.
