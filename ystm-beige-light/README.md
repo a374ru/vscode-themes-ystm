@@ -3,4 +3,12 @@
 
 [url-variable]: https://raw.githubusercontent.com/a374ru/vscode-themes-ystm/master/ystm-beige-light/screenshot.png
 
+### Sidebar Dark
+
 ![screenshot][url-variable]
+
+
+### Sidebar Light
+
+![url-variable](https://raw.githubusercontent.com/a374ru/vscode-themes-ystm/master/ystm-beige-light/screenshot-l.png)
+
