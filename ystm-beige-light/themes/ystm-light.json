@@ -559,7 +559,7 @@
     //"notebook.cellToolbarSeparator": "#80808059",
     //"notebook.editorBackground": "#fffafa",
     //"notebook.focusedCellBorder": "#ffcece00",
-    //"notebook.focusedEditorBorder": "#ffcece00",
+      "notebook.focusedEditorBorder": "#939393",
     //"notebook.inactiveFocusedCellBorder": "#44201550",
     //"notebook.selectedCellBackground": "#44201550",
     //"notebook.selectedCellBorder": "#44201550",
