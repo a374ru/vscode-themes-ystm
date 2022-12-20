@@ -53,6 +53,7 @@
     "dropdown.border": "#00000000",
     "dropdown.foreground": "#616161",
     "dropdown.listBackground": "#ffffff",
+    "editor.findMatchBackground": "#fff",
     "terminal.findMatchBackground": "#ddffd6",
     "editor.findMatchBorder": "#ffa0a0",
     "editor.findMatchHighlightBackground": "#ffb5b555",
@@ -240,7 +241,7 @@
     "settings.focusedRowBackground": "#ffffff07",
     "settings.headerForeground": "#9d9090",
     "settings.modifiedItemIndicator": "#d4a72c66",
-    "sideBar.background": "#303030",
+    "sideBar.background": "#370505",
     "sideBar.border": "#adadadfd",
     "sideBar.dropBackground": "#000000",
     "sideBar.foreground": "#bcb995",
@@ -559,7 +560,7 @@
     //"notebook.cellToolbarSeparator": "#80808059",
     //"notebook.editorBackground": "#fffafa",
     //"notebook.focusedCellBorder": "#ffcece00",
-      "notebook.focusedEditorBorder": "#939393",
+    "notebook.focusedEditorBorder": "#939393",
     //"notebook.inactiveFocusedCellBorder": "#44201550",
     //"notebook.selectedCellBackground": "#44201550",
     //"notebook.selectedCellBorder": "#44201550",
@@ -859,7 +860,7 @@
       "scope": "carriage-return",
       "settings": {
         "foreground": "#F6F8FA",
-        "background": "#CF222E",
+        // "background": "#CF222E",
         "fontStyle": "italic underline"
       }
     },
@@ -992,7 +993,7 @@
       ],
       "settings": {
         "foreground": "#82071E",
-        "background": "#FFEBE9"
+        // "background": "#FFEBE9"
       }
     },
     {
@@ -1011,7 +1012,7 @@
       ],
       "settings": {
         "foreground": "#116329",
-        "background": "#DAFBE1"
+        // "background": "#DAFBE1"
       }
     },
     {
@@ -1021,7 +1022,7 @@
       ],
       "settings": {
         "foreground": "#953800",
-        "background": "#FFD8B5"
+        // "background": "#FFD8B5"
       }
     },
     {
@@ -1031,7 +1032,7 @@
       ],
       "settings": {
         "foreground": "#EAEEF2",
-        "background": "#0550AE"
+        // "background": "#0550AE"
       }
     },
     {

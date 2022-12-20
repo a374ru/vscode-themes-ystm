@@ -54,7 +54,8 @@
     "dropdown.foreground": "#616161",
     "dropdown.listBackground": "#ffffff",
     "editor.background": "#fffafa",
-    "editor.findMatchBackground": "#ffffff",
+    "editor.findMatchBackground": "#fff",
+    "terminal.findMatchBackground": "#ddffd6",
     "editor.findMatchBorder": "#ffa0a0",
     "editor.findMatchHighlightBackground": "#ffb5b555",
     "editor.findMatchHighlightBorder": "#ffffff00",
@@ -144,7 +145,7 @@
     "gitDecoration.addedResourceForeground": "#adff00",
     "gitDecoration.conflictingResourceForeground": "#ffc2c2",
     "gitDecoration.deletedResourceForeground": "#a96c6c",
-    "gitDecoration.ignoredResourceForeground": "#505050",
+    "gitDecoration.ignoredResourceForeground": "#c6c6c6",
     "gitDecoration.modifiedResourceForeground": "#9f934e",
     "gitDecoration.stageDeletedResourceForeground": "#b0b0b0",
     "gitDecoration.stageModifiedResourceForeground": "#d7a85e",
@@ -207,7 +208,7 @@
     "notificationsInfoIcon.foreground": "#75beff",
     "notificationsWarningIcon.foreground": "#e9a700",
     "panel.background": "#ffffff",
-    "panel.border": "#80808059",
+    "panel.border": "#986d00",
     "panelInput.border": "#d0d7de",
     "panelSection.border": "#80808059",
     "panelTitle.activeBorder": "#424242",
@@ -241,8 +242,8 @@
     "settings.focusedRowBackground": "#ffffff07",
     "settings.headerForeground": "#9d9090",
     "settings.modifiedItemIndicator": "#d4a72c66",
-    "sideBar.background": "#fdfdfd",
-    "sideBar.border": "#adadadfd",
+    "sideBar.background": "#fff6f6",
+    "sideBar.border": "#ffffff",
     "sideBar.dropBackground": "#000000",
     "sideBar.foreground": "#79786c",
     "sideBarSectionHeader.background": "#d36c6c2c",
@@ -560,7 +561,7 @@
     //"notebook.cellToolbarSeparator": "#80808059",
     //"notebook.editorBackground": "#fffafa",
     //"notebook.focusedCellBorder": "#ffcece00",
-      "notebook.focusedEditorBorder": "#939393",
+    "notebook.focusedEditorBorder": "#939393",
     //"notebook.inactiveFocusedCellBorder": "#44201550",
     //"notebook.selectedCellBackground": "#44201550",
     //"notebook.selectedCellBorder": "#44201550",
@@ -860,7 +861,7 @@
       "scope": "carriage-return",
       "settings": {
         "foreground": "#F6F8FA",
-        "background": "#CF222E",
+        // "background": "#CF222E",
         "fontStyle": "italic underline"
       }
     },
@@ -993,7 +994,7 @@
       ],
       "settings": {
         "foreground": "#82071E",
-        "background": "#FFEBE9"
+        // "background": "#FFEBE9"
       }
     },
     {
@@ -1012,7 +1013,7 @@
       ],
       "settings": {
         "foreground": "#116329",
-        "background": "#DAFBE1"
+        // "background": "#DAFBE1"
       }
     },
     {
@@ -1022,7 +1023,7 @@
       ],
       "settings": {
         "foreground": "#953800",
-        "background": "#FFD8B5"
+        // "background": "#FFD8B5"
       }
     },
     {
@@ -1032,7 +1033,7 @@
       ],
       "settings": {
         "foreground": "#EAEEF2",
-        "background": "#0550AE"
+        // "background": "#0550AE"
       }
     },
     {
