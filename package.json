@@ -2,7 +2,7 @@
 	"name": "beige-light",
 	"displayName": "YSTM-COLORS",
 	"description": "Светлая тема в бежевых тонах. Сверстана с учетом предыдущего опыта и уставшего зрения.",
-	"version": "3.3.7",
+	"version": "3.4.17",
 	"publisher": "a374ru",
 	"icon": "rgb.png",
 	"repository": {
@@ -19,14 +19,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "YSTM-DB",
-				"uiTheme": "vs",
-				"path": "./themes/ystm-light.json"
-			},
-			{
-				"label": "YSTM-LB",
+				"label": "YSTM-LSB",
 				"uiTheme": "vs",
 				"path": "./themes/ystm-dark.json"
+			},
+			{
+				"label": "YSTM-DSB",
+				"uiTheme": "vs",
+				"path": "./themes/ystm-light.json"
 			}
 		]
 	},
@@ -37,8 +37,12 @@
 		"targetPlatform": "undefined",
 		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1713021815042,
+		"installedTimestamp": 1728227159477,
 		"hasPreReleaseVersion": false,
-		"source": "gallery"
+		"source": "gallery",
+		"isApplicationScoped": false,
+		"pinned": false,
+		"preRelease": false,
+		"size": 317025
 	}
 }

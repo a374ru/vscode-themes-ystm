@@ -1,15 +1,15 @@
 
-# <span style="color: #8F7161;">Цветочная схема в розово-бежевых тонах с темным или светлым сайдбаром.
+# <span style="color: #8F7161;">Тема в розово бежевых тонах с темным или светлым сайд-баром.
 
-[url-variable]: https://raw.githubusercontent.com/a374ru/vscode-themes-ystm/master/ystm-beige-light/screenshot.png
+[url-variable]: https://img.a374.ru/vsce-theme.png
 
 ### Sidebar Dark
 
-![screenshot][url-variable]
+![screenshot](https://img.a374.ru/vsce-theme-db.jpeg)
 
 
 ### Sidebar Light
 
-![url-variable](https://raw.githubusercontent.com/a374ru/vscode-themes-ystm/master/ystm-beige-light/screenshot-l.png)
+![url-variable](https://img.a374.ru/vsce-theme-lb.jpeg)
 
-### При работе с темным сайдбаром, некоторый код в блоках может отображаться некорректно. Просто поменяйте тему на `YSTM-LB`.
+### При работе с темным сайдбаром, некоторый код в блоках может отображаться некорректно. Просто поменяйте тему на `YSTM-DLB`.
